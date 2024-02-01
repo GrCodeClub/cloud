@@ -1,15 +1,15 @@
 $(document).ready(function() {
     
-    var menuLink = ' <li><a href="https://grcodeclub.github.io">Αρχική Σελίδα</a></li>';
+    var menuLink = ' <li><a href="https://grcodeclub.gr">Αρχική Σελίδα</a></li>';
     $('.sidebarMenuInner').append(menuLink);
 
-    menuLink = '<li><a href="https://grcodeclub.github.io/cloud/">Cloud</a></li>';
+    menuLink = '<li><a href="https://grcodeclub.gr/cloud/">Cloud</a></li>';
     $('.sidebarMenuInner').append(menuLink);
     
-    menuLink = '<li><a href="https://grcodeclub.github.io/cloud/post/basic.html">Βασικές Γνώσεις</a></li>';
+    menuLink = '<li><a href="https://grcodeclub.gr/cloud/post/basic.html">Βασικές Γνώσεις</a></li>';
     $('.sidebarMenuInner').append(menuLink);
 
-    menuLink = '<li><a href="https://grcodeclub.github.io/network/">Δίκτυα</a></li>';
+    menuLink = '<li><a href="https://grcodeclub.gr/network/">Δίκτυα</a></li>';
     $('.sidebarMenuInner').append(menuLink);
     
     menuLink = '<li style="height: 200px;"></li>';
